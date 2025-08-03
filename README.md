@@ -22,7 +22,7 @@ This project focuses on uncovering key insights across the marketing funnel usin
 
 ## 🔗 Live Dashboard
 
-[<img src= "https://github.com/ritupermani/ShopEasy-CaseStudy/blob/main/Images/Overview.png">](https://app.powerbi.com/groups/e0ecc5b0-fc49-49c2-a532-5e637759db43/reports/5a26dc1d-8152-41ae-8444-09d948d86885/886b6d083dca94e080f5?experience=power-bi)
+[<img src= "https://github.com/ritupermani/ShopEasy-CaseStudy/blob/main/Images/Overview.png">](https://app.powerbi.com/view?r=eyJrIjoiNmNkYjIwN2MtMjdkNC00NjJhLWI3OTItOTNmMWZiYzZmOTU0IiwidCI6IjUxZTYzYTMyLWVmY2MtNGVmMy05OWM0LWYwODhlODdhM2M2MiJ9)
 
 > Click the image above to explore the **interactive Power BI dashboard** live.
 
